@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://app.netlify.com/teams/freddie-1irqzbg/sitemap.xml
